@@ -1,0 +1,15 @@
+C:\Users\Вадим\source\repos\DP1\DP\bin\Release\DP.exe.config
+C:\Users\Вадим\source\repos\DP1\DP\bin\Release\DP.exe
+C:\Users\Вадим\source\repos\DP1\DP\bin\Release\DP.pdb
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Form1.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Form2.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Form3.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Form4.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Form5.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Form6.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.Properties.Resources.resources
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.exe
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.pdb
+C:\Users\Вадим\source\repos\DP1\DP\obj\Release\DP.csprojAssemblyReference.cache
